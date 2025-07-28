@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [**Advanced DevOps Integration** – CI/CD, Docker, Kubernetes for AI & web apps](🔗 [GitHub Repo](https://github.com/aryantamboli770/SE-Recruitment-Platform) *(or placeholder link if private)*)
 
-- 👨‍💻 All of my projects are available at [🌐 [GitHub Portfolio](https://github.com/aryantamboli770) 🌐 [Codolio Portfolio](https://codolio.com/profile/2WRzHRpG)](🌐 [GitHub Portfolio](https://github.com/aryantamboli770) 🌐 [Codolio Portfolio](https://codolio.com/profile/2WRzHRpG))
+- 👨‍💻 All of my projects are available at [🌐 [GitHub Portfolio](https://github.com/aryantamboli770) 🌐 [Codolio Portfolio](https://codolio.com/profile/2WRzHRpG)]
 
 - 💬 Ask me about **React.js, Firebase, Jetpack Compose, Deep Learning (CNN/LSTM/Transformers), DevOps setups**
 
