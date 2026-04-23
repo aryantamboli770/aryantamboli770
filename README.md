@@ -40,6 +40,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="left">
+  <i>Every tool here tells a story — late-night debug sessions, hackathon sprints, semester projects that turned into something real. This is not just a tech stack, it's the map of my college journey, one commit at a time. 🛠️</i>
+</p>
+
 <table>
   <tr>
     <td align="center" width="96">
