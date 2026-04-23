@@ -204,6 +204,135 @@
       </a><br>TensorFlow
     </td>
     <td align="center" width="96">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+      </a><br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      </a><br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+      </a><br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="https://graphql.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+      </a><br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+      </a><br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="40" height="40"/>
+      </a><br>Vite
+    </td>
+    <td align="center" width="96">
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+      </a><br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+      </a><br>Webpack
+    </td>
+    <td align="center" width="96">
+      <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+      </a><br>Jest
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+      </a><br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
+      </a><br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+      </a><br>GitLab CI
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+      </a><br>Ansible
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+      </a><br>Terraform
+    </td>
+    <td align="center" width="96">
+      <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+      </a><br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+      </a><br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+      </a><br>Kibana
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
+      </a><br>Helm
+    </td>
+    <td align="center" width="96">
+      <a href="https://redis.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+      </a><br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+      </a><br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+      <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+      </a><br>Kafka
+    </td>
+    <td align="center" width="96">
+      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+      </a><br>GCP
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+      </a><br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+      </a><br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+      </a><br>Elasticsearch
     </td>
   </tr>
 </table>
