@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **📧 aryan.tamboli@mitaoe.ac.in 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-tamboli-9b310b265/)**
 
-- 📄 Know about my experiences [📄 [Resume PDF](https://drive.google.com/file/d/1kr162PNXnRu4tfp7eVt_Saqmam_xJU1Y/view?usp=sharing)](📄 [Resume PDF](https://drive.google.com/file/d/1kr162PNXnRu4tfp7eVt_Saqmam_xJU1Y/view?usp=sharing))
+- 📄 Know about my experiences [📄 Resume PDF](https://drive.google.com/file/d/1ckkBbQM4UwrLMhvIANg94_p9N7KElsob/view?usp=sharing)
 
 - ⚡ Fun fact **I won **SIH 2024** by building an AI-powered learning platform with NLP, Firebase, and React — all in one team project 🚀**
 
